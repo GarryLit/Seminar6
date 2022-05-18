@@ -1,0 +1,15 @@
+D:\Seminar6\S6T43\bin\Debug\net6.0\S6T43.exe
+D:\Seminar6\S6T43\bin\Debug\net6.0\S6T43.deps.json
+D:\Seminar6\S6T43\bin\Debug\net6.0\S6T43.runtimeconfig.json
+D:\Seminar6\S6T43\bin\Debug\net6.0\S6T43.dll
+D:\Seminar6\S6T43\bin\Debug\net6.0\ref\S6T43.dll
+D:\Seminar6\S6T43\bin\Debug\net6.0\S6T43.pdb
+D:\Seminar6\S6T43\obj\Debug\net6.0\S6T43.csproj.AssemblyReference.cache
+D:\Seminar6\S6T43\obj\Debug\net6.0\S6T43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar6\S6T43\obj\Debug\net6.0\S6T43.AssemblyInfoInputs.cache
+D:\Seminar6\S6T43\obj\Debug\net6.0\S6T43.AssemblyInfo.cs
+D:\Seminar6\S6T43\obj\Debug\net6.0\S6T43.csproj.CoreCompileInputs.cache
+D:\Seminar6\S6T43\obj\Debug\net6.0\S6T43.dll
+D:\Seminar6\S6T43\obj\Debug\net6.0\ref\S6T43.dll
+D:\Seminar6\S6T43\obj\Debug\net6.0\S6T43.pdb
+D:\Seminar6\S6T43\obj\Debug\net6.0\S6T43.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Seminar6\S6T41\bin\Debug\net6.0\S6T41.exe
+D:\Seminar6\S6T41\bin\Debug\net6.0\S6T41.deps.json
+D:\Seminar6\S6T41\bin\Debug\net6.0\S6T41.runtimeconfig.json
+D:\Seminar6\S6T41\bin\Debug\net6.0\S6T41.dll
+D:\Seminar6\S6T41\bin\Debug\net6.0\ref\S6T41.dll
+D:\Seminar6\S6T41\bin\Debug\net6.0\S6T41.pdb
+D:\Seminar6\S6T41\obj\Debug\net6.0\S6T41.csproj.AssemblyReference.cache
+D:\Seminar6\S6T41\obj\Debug\net6.0\S6T41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar6\S6T41\obj\Debug\net6.0\S6T41.AssemblyInfoInputs.cache
+D:\Seminar6\S6T41\obj\Debug\net6.0\S6T41.AssemblyInfo.cs
+D:\Seminar6\S6T41\obj\Debug\net6.0\S6T41.csproj.CoreCompileInputs.cache
+D:\Seminar6\S6T41\obj\Debug\net6.0\S6T41.dll
+D:\Seminar6\S6T41\obj\Debug\net6.0\ref\S6T41.dll
+D:\Seminar6\S6T41\obj\Debug\net6.0\S6T41.pdb
+D:\Seminar6\S6T41\obj\Debug\net6.0\S6T41.genruntimeconfig.cache
